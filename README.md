@@ -1,2 +1,10 @@
 # let
 let project
+let x = 8;
+if(true){
+  const func1 = function(){
+    console.log(x);
+};
+    console.log(x);
+     func1();
+}
